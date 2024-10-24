@@ -1,0 +1,13 @@
+# Ignora la cartella Visual Studio
+.vs/
+
+# Ignora la cartella degli ambienti virtuali (che potrebbe essere chiamata .venv)
+env/
+
+# Ignora i file di configurazione Python
+*.pyc
+__pycache__/
+
+# Altri file o cartelle temporanei (facoltativo)
+*.log
+*.tmp
