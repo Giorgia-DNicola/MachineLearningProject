@@ -11,3 +11,8 @@ __pycache__/
 # Altri file o cartelle temporanei (facoltativo)
 *.log
 *.tmp
+.idea/
+envML/
+fake_news_detection/data/
+fake_news_detection/models/
+fake_news_detection/src/utili/results/
